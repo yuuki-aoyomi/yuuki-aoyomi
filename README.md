@@ -25,7 +25,7 @@ Building personal tools, experiments, and self-hosted systems.
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,docker,postgres,cloudflare,linux,go,python,git" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,docker,postgres,cloudflare,linux,go,python,java,cpp,git" />
 </p>
 
 ---
